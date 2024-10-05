@@ -6,7 +6,7 @@
     "build": "your-build-command"
   },
   "dependencies": {
-    "express": "^4.17.1" // Example dependency, adjust as needed
+    "express": "^4.17.1" 
   },
   "devDependencies": {}
 }
