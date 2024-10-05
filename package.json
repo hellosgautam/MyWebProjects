@@ -2,14 +2,11 @@
   "name": "Web322Assignment2",
   "version": "1.0.0",
   "scripts": {
-    "start": "server.js",
-    
+    "start": "node server.js",
+    "build": "your-build-command"
   },
   "dependencies": {
-    "express": "^4.17.1" 
+    "express": "^4.17.1" // Example dependency, adjust as needed
   },
-  "devDependencies": {
-    
-  }
+  "devDependencies": {}
 }
-
